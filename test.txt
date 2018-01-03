@@ -1,10 +1,1 @@
- Volume in drive E is New Volume
- Volume Serial Number is 5E7E-90C6
-
- Directory of E:\MyProject
-
-03/01/2018  09:00 PM    <DIR>          .
-03/01/2018  09:00 PM    <DIR>          ..
-03/01/2018  09:00 PM                 0 test.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  15,812,718,592 bytes free
+Change 1
