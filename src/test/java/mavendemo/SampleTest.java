@@ -10,7 +10,7 @@ public class SampleTest {
 		int a = 1;
 		int b = 2;
 		assertTrue(a+b == 3);
-	System.out.println("Hello world java"+a);
+	System.out.println("Hello world java"+b);
 	}
 
 }
